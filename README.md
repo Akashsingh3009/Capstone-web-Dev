@@ -29,11 +29,3 @@ This project is a fully functional e-commerce website specializing in products s
 
 - **Deployment:**
   - Netlify
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/ecommerce-website.git
